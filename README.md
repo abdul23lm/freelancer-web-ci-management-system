@@ -6,7 +6,9 @@ Management Information System For Design Services Web Using Codeigniter
 - Codeigtener versi 2.1.2
 
 # Login User
+Administrator
 - username: admin, password: admin
+Cashier
 - username: kasir, password: kasir
 
 # User limits on the application
