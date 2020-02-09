@@ -9,7 +9,7 @@ Management Information System For Design Services Web Using Codeigniter
 - username: admin, password: admin
 - username: kasir, password: kasir
 
-User limits on the application
+# User limits on the application
 
 a.	Cashier
 
