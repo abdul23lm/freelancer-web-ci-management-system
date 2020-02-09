@@ -2,12 +2,12 @@
 Management Information System For Design Services Web Using Codeigniter
 
 # The technology used in the system
-1. PHP versi 5.6.28
-2. Codeigtener versi 2.1.2
+- PHP versi 5.6.28
+- Codeigtener versi 2.1.2
 
 # Login User
-1.username: admin, password: admin
-2.username: kasir, password: kasir
+- username: admin, password: admin
+- username: kasir, password: kasir
 
 User limits on the application
 
