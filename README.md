@@ -1,5 +1,5 @@
-# management-information-system-for-design-services-web
-Management Information System For Design Services Web Using Codeigniter
+# freelancer-web-ci-management-system
+Freelancer Web Management System Using Codeigniter
 
 # The technology used in the system
 - PHP versi 5.6.28
